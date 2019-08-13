@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">MadeSub2</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">Tv Show</string>
+    <string name="description">Description</string>
+    <string name="genre">Genre: </string>
+    <string name="language">Language Settings</string>
+    <string name="releasedate">Release Date:</string>
+    <string name="director">Director</string>
+    <string name="creator">Creator</string>
+
+
+    <string-array name="titlemov">
+        <item>Alita Battle Angel</item>
+        <item>Aquaman</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Cold Pursuit</item>
+        <item>Creed 2</item>
+        <item>Glass</item>
+        <item>Master Z</item>
+        <item>Overload</item>
+        <item>Serenity</item>
+        <item>T34</item>
+    </string-array>
+
+    <string-array name="directormov">
+        <item>Robert Rodriguez</item>
+        <item>James Wan</item>
+        <item>Bryan Singer</item>
+        <item>Hans Petter Moland</item>
+        <item>Steven Caple Jr.</item>
+        <item>M. Night Shyamalan</item>
+        <item>Yuen Woo-ping</item>
+        <item>Steven Knight</item>
+        <item>Aleksey Sidorov</item>
+        <item>Sabrina Salvokov</item>
+    </string-array>
+
+    <string-array name="titletv">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>Flash</item>
+        <item>Got</item>
+        <item>Gotham</item>
+        <item>Greys Anatomy</item>
+        <item>Hanna</item>
+    </string-array>
+
+    <string-array name="creatortv">
+        <item>Greg Berlanti</item>
+        <item>Jeremy Carver</item>
+        <item>Akira Toriyama</item>
+        <item>Anonymous</item>
+        <item>Seth MacFarlane</item>
+        <item>Geoff Johns, Andrew Kreisberg, Greg Berlanti</item>
+        <item>Anonymous</item>
+        <item>Bruno Heller</item>
+        <item>Shonda Rhimes</item>
+        <item>David Farr</item>
+    </string-array>
+
+    <string-array name="img_mov">
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_cold_persuit</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_master_z</item>
+        <item>@drawable/poster_overlord</item>
+        <item>@drawable/poster_serenity</item>
+        <item>@drawable/poster_t34</item>
+    </string-array>
+
+    <string-array name="img_tv">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_hanna</item>
+    </string-array>
+
+    <string-array name="release_datemov">
+        <item>February 14, 2019</item>
+        <item>December 21, 2018</item>
+        <item>November 2, 2018</item>
+        <item>February 7, 2019</item>
+        <item>November 21, 2018</item>
+        <item>January 16, 2019</item>
+        <item>December 20, 2018</item>
+        <item>November 1, 2018</item>
+        <item>January 24, 2019</item>
+        <item>December 27, 2018</item>
+    </string-array>
+
+    <string-array name="release_datetv">
+        <item>October 10, 2012</item>
+        <item>February 15, 2019</item>
+        <item>February 26, 1986</item>
+        <item>October 12, 2009</item>
+        <item>January 31, 1999</item>
+        <item>October 7, 2014</item>
+        <item>October 2, 2013</item>
+        <item>September 22, 2014</item>
+        <item>March 27, 2005</item>
+        <item>March 28, 2019</item>
+    </string-array>
+
+    <string-array name="description_tv">
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>The Doom Patrol’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the</item>
+        <item>Long ago in the mountains, a fighting master known as Gohan discovered a strange boywhom he named Goku. Gohan raised him and trained Goku in martial arts until he died.</item>
+        <item>Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of</item>
+        <item>Sick, twisted, politically incorrect and Freakin Sweet animated series featuring theadventures of the dysfunctional Griffin family. Bumbling Peter and longsuffering Lois</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen isstruck by lightning and falls into a coma. Months later he awakens with the power of</item>
+        <item>After her outlaw husband returns home shot with eight bullets and barely alive, Jane reluctantly reaches out to an exlover who she hasnt seen in over ten years to help her</item>
+        <item>Before there was Batman, there was GOTHAM. Everyone knows the name Commissioner Gordon.He is one of the crime worlds greatest foes, a man whose reputation is synonymous with</item>
+        <item>Follows the personal and professional lives of a group of doctors at Seattles GreySloan Memorial Hospital.</item>
+        <item>This thriller and comingofage drama follows the journey of an extraordinary younggirl as she evades the relentless pursuit of an offbook CIA agent and tries to unearththe truth behind who she is. Based on the 2011 Joe Wright film.</item>
+    </string-array>
+
+    <string-array name="description_move">
+        <item>When Alita awakens with no memory of who she is in a future world she doesnot recognize, she is taken in by Ido, a compassionate doctor who realizes that</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwaterkingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitaristJohn Deacon take the music world by storm when they form the rock n roll band Queen</item>
+        <item>The quiet family life of Nels Coxman, a snowplow driver, is upended after his son smurder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for</item>
+        <item>Between personal obligations and training for his next big fight against an opponentwith ties to his familys past, Adonis Creed is up against the challenge of his life.</item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses hissupernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twentyfour</item>
+        <item>Following his defeat by Master Ip, Cheung Tin Chi Zhang tries to make a life withhis young son in Hong Kong, waiting tables at a bar that caters to expats. But it s not</item>
+        <item>France, June 1944. On the eve of D-Day, some American paratroopers fall behind enemylines after their aircraft crashes while on a mission to destroy a radio tower in a</item>
+        <item>Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclavecalled Plymouth Island. His quiet life is shattered, however, when his exwife Karentracks him down with a desperate plea for help.</item>
+        <item>In 1944, a courageous group of Russian soldiers managed to escape from Germancaptivity in a halfdestroyed legendary T34 tank. Those were the times of unforgettablebravery, fierce fighting, unbreakable love, and legendary miracles.</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail">Detail</string>
+
+
+</resources>
